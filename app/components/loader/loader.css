@@ -6,7 +6,7 @@
     border-radius: 6px;
     height: 350px;
     overflow: hidden;
-    width: 300px;
+    width: 100%;
   }
   .shimmerBG {
     animation-duration: 2.2s;
