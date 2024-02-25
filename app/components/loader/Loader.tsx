@@ -1,5 +1,5 @@
 import { Grid } from "@mantine/core";
-import "./Loader.css";
+import "./loader.css";
 const Loader = () => {
   return (
     <Grid.Col span={{ base: 12, sm: 6, lg: 3 }}>
